@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -76,10 +75,21 @@ h1{
     color:#fff;
     cursor:pointer;
     transition:all .25s ease;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:10px;
 }
 
 .btn button:hover{
     transform:translateY(-3px);
+}
+
+.icon{
+    width:22px;
+    height:22px;
+    object-fit:contain;
 }
 
 .cydia{
@@ -120,17 +130,26 @@ h1{
 
         <a class="btn"
            href="cydia://url/https://cydia.saurik.com/api/share#?source=https://idvx.github.io/">
-            <button class="cydia">Add to Cydia</button>
+            <button class="cydia">
+                <img src="cydia.png" class="icon" alt="Cydia">
+                Add to Cydia
+            </button>
         </a>
 
         <a class="btn"
            href="sileo://source/https://idvx.github.io/">
-            <button class="sileo">Add to Sileo</button>
+            <button class="sileo">
+                <img src="sileo.png" class="icon" alt="Sileo">
+                Add to Sileo
+            </button>
         </a>
 
         <a class="btn"
            href="zbra://sources/add/https://idvx.github.io/">
-            <button class="zebra">Add to Zebra</button>
+            <button class="zebra">
+                <img src="zebra.png" class="icon" alt="Zebra">
+                Add to Zebra
+            </button>
         </a>
 
     </div>
@@ -143,4 +162,3 @@ h1{
 
 </body>
 </html>
-```
