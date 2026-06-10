@@ -1,0 +1,14 @@
+Package: com.idvx.dynamicclassdumper
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iDvx
+Depends: المتطلبات 
+Conflicts: NO
+Filename: debs/com.idvx.dynamicclassdumper_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 20078
+MD5sum: firmware (>= 16.0), mobilesubstrate
+SHA1: a9fc29eb58c0893120b4741e95f6ec82f0741624
+SHA256: 2e3a93639fe3962dd626c5cba973227e
+Section: Tweaks
+Depiction: iDvx.github.io + Dynamically dumps classes for a selected app and opens Filza
+Name: dynamic class dumpe
