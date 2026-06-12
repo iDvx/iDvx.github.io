@@ -1,7 +1,17 @@
 Origin: iDvx
-Label: iDvx 
+Label: iDvx Repository
 Suite: stable
 Version: 1.0
-Architectures: iphoneos-arm
+Codename: iDvx
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: repo
+Description: Your source for jailbreak tweaks, themes, tools, and customization packages.
+MD5Sum:
+ d97ac924cf8e232ad9d6506f66fd9056 565 Packages
+ 32edf251dbd44e018be35f8c21b1f1da 424 Packages.bz2
+SHA1:
+ bd28a1f749117925bfe0d8a0f42a94a94879e0e5 565 Packages
+ 6da0d0b0a6a0a57e0c62bfd640a10848827134b7 424 Packages.bz2
+SHA256:
+ 3246defc3b73c87ebb76a3a53d36a51564ef73e292efb36233ceb0cc66a15f67 565 Packages
+ 07c48692f370d69ef1d278d4a12d5db41634fe42790ec6f261732655083fc532 424 Packages.bz2
