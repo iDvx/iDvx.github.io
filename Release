@@ -6,6 +6,7 @@ Codename: iDvx
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Your source for jailbreak tweaks, themes, tools, and customization packages.
+Icon: https://idvx.github.io/CydiaIcon.png
 MD5Sum:
  d97ac924cf8e232ad9d6506f66fd9056 565 Packages
  32edf251dbd44e018be35f8c21b1f1da 424 Packages.bz2
